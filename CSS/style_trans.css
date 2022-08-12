@@ -61,7 +61,7 @@ body
     background-size: cover;
 }
 .alphabets {
-    background-image: url("images/alphabets.jpg");
+    background-image: url("../images/alphabets.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
