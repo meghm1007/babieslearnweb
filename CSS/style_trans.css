@@ -43,7 +43,7 @@ body
     background-size: cover;
 }
 .vegetables {
-    background: url("images/vegetables.jpg");
+    background-image: url("images/vegetables.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -61,7 +61,7 @@ body
     background-size: cover;
 }
 .alphabets {
-    background: url("images/alphabets.jpg");
+    background-image: url("images/alphabets.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
