@@ -6,11 +6,11 @@ body {
     background: rgb(207, 207, 207);
 }
 
-.animalsdiv {
+.shapesdiv {
     display: inline-block;
 }
 
-.imganimals {
+.imgshapes {
     font-size: 110px;
     font-weight: bold;
     margin: 33px;
@@ -27,7 +27,7 @@ body {
     border: none;
 }
 
-.imganimals:hover {
+.imgshapes:hover {
     opacity: 1;
     border-radius: 90px;
     cursor: pointer;

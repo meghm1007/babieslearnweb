@@ -23,6 +23,10 @@ body
     font-size: 75px;
     font-weight: 700;
     
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 .block:hover
 {
@@ -37,13 +41,13 @@ body
     background-size: cover;
 }
 .numbers {
-    background-image: url("images/numbers.jpg");
+    background: url("images/numbers.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .vegetables {
-    background-image: url("images/vegetables.jpg");
+    background: url("images/vegetables.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -55,13 +59,13 @@ body
     background-size: cover;
 }
 .vehicles {
-    background: url("images/transportbg2.png");
+    background-image: url("images/transportbg2.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .alphabets {
-    background-image: url('images/alphabets.jpg');
+    background-image: url("images/alphabets.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -104,13 +108,10 @@ body
 }
 .bodyparts {
 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    font-size: 30px;
-    opacity: 0.7;
-    cursor: not-allowed;
-    color: rgb(255, 255, 255);
+    background: url("images/bodyparts.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
 }
 .engwords 
 {
@@ -180,11 +181,16 @@ body
 }
 .shapes {
 
+    background: url("images/shapesbg.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+.animals {
+
+    background: url("images/animalsbg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    font-size: 30px;
-    opacity: 0.7;
-    cursor: not-allowed;
-    color: rgb(255, 255, 255);
+    
 }

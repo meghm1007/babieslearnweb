@@ -6,11 +6,11 @@ body {
     background: rgb(207, 207, 207);
 }
 
-.animalsdiv {
+.bodypartsdiv {
     display: inline-block;
 }
 
-.imganimals {
+.imgbodyparts {
     font-size: 110px;
     font-weight: bold;
     margin: 33px;
@@ -27,7 +27,7 @@ body {
     border: none;
 }
 
-.imganimals:hover {
+.imgbodyparts:hover {
     opacity: 1;
     border-radius: 90px;
     cursor: pointer;
